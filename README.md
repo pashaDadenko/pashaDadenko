@@ -1,7 +1,8 @@
 ## Hey, i'm Pasha 🖐️
 
 - I'm a frontend developer. 
-- My primary area of interest is React.js, Next.js and TypeScript.  
+- My primary area of interest is React.js, Next.js and TypeScript.
+- At the moment, my interests are related to React.js, Next.js, and TypeScript. My goal is to achieve a high level of proficiency in working with React, Next, and TypeScript and to create complex and high-performance web applications.
   
 **Follow me on GitHub, I have many React.js and Next.js projects coming up! 😊**
 
