@@ -42,5 +42,5 @@
 ## 
 
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*mUahTQdRR4e4MJLLtJkjbw.gif" align="center" style="width: 100%" />
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*mUahTQdRR4e4MJLLtJkjbw.gif" align="center" style="width: 110%" />
 </div>
