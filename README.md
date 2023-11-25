@@ -37,7 +37,7 @@
 <div align="start">
   <a href="https://t.me/pschPvl"><img src="https://phonoteka.org/uploads/posts/2022-09/1663789331_5-phonoteka-org-p-znachok-telegramma-bez-fona-krasivo-6.png" alt="Telegram" height="65"></a>
   <a href="https://vk.com/pashaye"><img src="https://phonoteka.org/uploads/posts/2022-09/1663824562_7-phonoteka-org-p-sots-seti-fon-vkontakte-9.png" alt="VK" height="65"></a>
-  <a href="https://instagram.com/pschpvl"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="65"></a>
+<!--   <a href="https://instagram.com/pschpvl"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="65"></a> -->
 
 ## 
 
